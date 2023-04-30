@@ -1,0 +1,1 @@
+This is flutter based delivery application for Android and IOS.
